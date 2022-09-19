@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Abdelrahman S. Hussein
     tagline: Graduate Research Assistant
-    avatar: abdelrahman_hussein_picture_100_100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: abdelrahman_hussein_picture.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: abdelrahman_hussein@sfu.ca
     timezone: Pacific Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: abdelrahmansobeih
     #xing: alandoe
     github: abdelrahmanhussein
@@ -175,22 +175,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        #level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        #level: 98%
 
       - name: Angular
-        level: 98%
+        #level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        #level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        #level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
