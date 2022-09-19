@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Abdelrahman S. Hussein
     tagline: Graduate Research Assistant
-    avatar: abdelrahman_hussein_picture.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: abdelrahman_hussein_picture_100_100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: abdelrahman_hussein@sfu.ca
