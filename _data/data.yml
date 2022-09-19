@@ -121,16 +121,6 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-experiences:
-    title: Teaching Experience
-    info:
-      - role: Graduate Teaching Assistant
-        time: 2019 - 2021
-        company: Test
-        details: |
-          test test
-            - test bullet 1
-            - test bullet 2
 projects:
     title: Projects
     intro: >
