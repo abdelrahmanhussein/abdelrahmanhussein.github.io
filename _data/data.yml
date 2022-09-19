@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Abdelrahman S. Hussein
+    name: Abdelrahman Hussein
     tagline: Graduate Research Assistant
     avatar: abdelrahman_hussein_picture.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC.
+     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a>
 education:
     title: Education
     info:
