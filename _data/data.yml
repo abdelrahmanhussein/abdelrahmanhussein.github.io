@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. <a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a>
+     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University, advised by Prof. <a href="https://www2.cs.sfu.ca/~alaa/alaa_home.shtml">Alaa Alameldeen</a>. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. 
 education:
     title: Education
     info:
