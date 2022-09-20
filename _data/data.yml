@@ -55,12 +55,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University, advised by Prof. <a href="https://www2.cs.sfu.ca/~alaa/alaa_home.shtml">Alaa Alameldeen</a>. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. 
+     I am an MSc. student and Research Assistant at the School of Computing Sciences at Simon Fraser University, advised by Prof. <a href="https://www2.cs.sfu.ca/~alaa/alaa_home.shtml">Alaa Alameldeen</a>. Currently, my research focuses on optimizing the microarchitecture structures for heavily multithreaded workloads for data centers. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. I am systems enthusiast.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: Simon Fraser University
+        university: Simon Fraser University, Canada
         time: 2021 - Present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -70,9 +70,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Diploma in Digital Systems Design
+        university: Information Technology Institutre, Egypt
+        time: 2017 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,6 +81,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: BSc in Computer Engineering
+        university: Mansoura University, Egypt
+        time: 2012 - 2017
 experiences:
     title: Experiences
     info:
