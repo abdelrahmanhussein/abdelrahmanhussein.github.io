@@ -15,7 +15,7 @@ sidebar:
     email: abdelrahman_hussein@sfu.ca
     timezone: Pacific Timezone
     citizenship: Metro Vancouver, Canada
-    #website: blog.webjeda.com #do not add http://
+    website: bit.ly/GScholar_Abdelrahman_Hussein #do not add http://
     linkedin: abdelrahmansobeih
     #xing: alandoe
     github: abdelrahmanhussein
@@ -71,7 +71,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: Diploma in Digital Systems Design
-        university: Information Technology Institutre, Egypt
+        university: Information Technology Institute, Egypt
         time: 2017 - 2018
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -87,9 +87,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Graduate Research Assistant
+        time: Sep 2021 - Present
+        company: Simon Fraser University, Canada
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
