@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Abdelrahman Hussein
     tagline: Graduate Research Assistant
-    avatar: abdelrahman_hussein_picture_200.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: abdelrahman_hussein_picture.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: abdelrahman_hussein@sfu.ca
@@ -75,18 +75,14 @@ experiences:
         time: Sep 2021 - Present
         company: Simon Fraser University, Canada
         details: |
-          
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I am a research assistant at the Memory Architecture Group at CS School. Currently, I work on studying and optimizing micro-architecture structures for heavily multi-threaded workloads for data centers servers. The project is funded by Intel.
+      - role: Graduate Research Assistant
+        time: Nov 2019 - May 2021
+        company: Cairo University, Egypt
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I was part of the Opto-Nano-Electronic (ONE) Research Group, where I worked on two projects:
+          - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).
+          - <b>Project #2:</b> Investigating UCB Rocket Chip as a part of intensive exploration for further studies as a step towards implementing a Domain-Specific accelerator.
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
