@@ -135,30 +135,27 @@ publications:
 
       - title: ASIC and FPGA Comparative Study for IoT Lightweight Hardware Security Algorithms
         link: "https://www.worldscientific.com/doi/abs/10.1142/S0218126619300095"
-        authors: Nagham Samir, Abdelrahman S. Hussein, Mohaned Khaled, Ahmed N. El-Zeiny, Mahetab Osama, Heba Yassin, Ali Abdelbaky, Omar Mahmoud, Ahmed Shawky, and Hassan Mostafa
+        authors: Nagham Samir, <b>Abdelrahman S. Hussein</b>, Mohaned Khaled, Ahmed N. El-Zeiny, Mahetab Osama, Heba Yassin, Ali Abdelbaky, Omar Mahmoud, Ahmed Shawky, and Hassan Mostafa
         conference: Journal of Circuits, Systems and Computers, 2019
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: <b>Programming:</b> C/C++, Python
         #level: 98%
 
-      - name: Javascript & jQuery
+      - name: <b>HW Description Language:</b> VHDL, Verilog
         #level: 98%
 
-      - name: Angular
+      - name: <b>Simulators:</b> gem5, ChampSim
         #level: 98%
 
-      - name: HTML5 & CSS
+      - name: <b>EDA Tools:</b> QuestaSim, Xilinx Vivado, Synopsys Design Compiler, Cadence SoC Encounter
         #level: 95%
 
-      - name: Ruby on Rails
+      - name: <b>Frameworks:</b> Keras, DarkNet, Xilinx Vitis AI
         #level: 85%
-
-      - name: Sketch & Photoshop
-        #level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
