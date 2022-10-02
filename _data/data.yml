@@ -123,10 +123,8 @@ experiences:
 
 publications:
     title: Publications
-    # intro: |
-    #   You can list your publications in this section. Lorem ipsum dolor sit
-    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #   bibendum fringilla a eu lectus.
+    intro: |
+      You can access my publications list on my <a href="https://scholar.google.com/citations?user=yiKLyecAAAAJ&hl=en">Google Scholar Profile</a>
     papers:
       - title: Implementation of a DPU-Based Intelligent Thermal Imaging Hardware Accelerator on FPGA
         link: "https://www.mdpi.com/2079-9292/11/1/105"
