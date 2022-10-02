@@ -81,7 +81,7 @@ experiences:
         company: Cairo University, Egypt
         details: |
           I was part of the Opto-Nano-Electronic (ONE) Research Group, where I worked on two projects:
-          - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).<br>
+          - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).
           - <b>Project #2:</b> Investigating UCB Rocket Chip as a part of intensive exploration for further studies as a step towards implementing a Domain-Specific accelerator.
       - role: Research Intern
         time: Oct 2018 - Mar 2019
@@ -94,7 +94,7 @@ experiences:
         details: |
           I had a 3-month internship at ONE Lab. I worked on a comparative study between ASIC and FPGA implementations of CAESAR Cryptography Competition submissions.
 
-projects:
+# projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
@@ -123,25 +123,20 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Implementation of a DPU-Based Intelligent Thermal Imaging Hardware Accelerator on FPGA
+        link: "https://www.mdpi.com/2079-9292/11/1/105"
+        authors: <b>Abdelrahman S. Hussein</b>, Ahmed Anwar, Yasmine Fahmy, Hassan Mostafa, Khaled Nabil Salama, and Mai Kafafy
+        conference: MDPI Electronics, 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: ASIC and FPGA Comparative Study for IoT Lightweight Hardware Security Algorithms
+        link: "https://www.worldscientific.com/doi/abs/10.1142/S0218126619300095"
+        authors: Nagham Samir, Abdelrahman S. Hussein, Mohaned Khaled, Ahmed N. El-Zeiny, Mahetab Osama, Heba Yassin, Ali Abdelbaky, Omar Mahmoud, Ahmed Shawky, and Hassan Mostafa
+        conference: Journal of Circuits, Systems and Computers, 2019
 
 skills:
     title: Skills &amp; Proficiency
