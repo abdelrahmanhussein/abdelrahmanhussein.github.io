@@ -142,7 +142,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: "Programming: C/C++, Python"
+      - name: <b>Programming:</b> C/C++, Python
         #level: 98%
 
       - name: <b>HW Description Language:</b> VHDL, Verilog
