@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: abdelrahman_hussein@sfu.ca
-    timezone: Pacific Timezone
+    timezone: Pacific Time Zone
     citizenship: Metro Vancouver, Canada
     #website: bit.ly/GScholar_Abdelrahman_Hussein #do not add http://
     linkedin: abdelrahmansobeih
@@ -75,25 +75,25 @@ experiences:
         time: Sep 2021 - Present
         company: Simon Fraser University, Canada
         details: |
-          I am a research assistant at the Memory Architecture Group at CS School. Currently, I work on studying and optimizing micro-architecture structures for heavily multi-threaded workloads for data centers servers. The project is funded by Intel.
+          I am a research assistant at the Memory Architecture Group at the CS School. Currently, I work on studying and optimizing micro-architecture structures for heavily multi-threaded workloads for data centers servers. The project is funded by Intel.
       - role: Graduate Research Assistant
         time: Nov 2019 - May 2021
         company: Cairo University, Egypt
         details: |
           I was part of the Opto-Nano-Electronic (ONE) Research Group, where I worked on two projects:
-          - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).
+          - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).<br>
           - <b>Project #2:</b> Investigating UCB Rocket Chip as a part of intensive exploration for further studies as a step towards implementing a Domain-Specific accelerator.
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Research Intern
+        time: Oct 2018 - Mar 2019
+        company: Brown University, USA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I had a 6-month internship at the SCALE Lab at the ECE School. I worked on a hardware/software co-design implementation of 3D Face Recognition for Biometric Security System. The system included the use of deep CNN, OpenCV, FPGA acceleration, and Computer Vision.
+      - role: Research Intern
+        time: Jul 2017 - Oct 2017
+        company: Cairo University, Egypt
+        details: |
+          I had a 3-month internship at ONE Lab. I worked on a comparative study between ASIC and FPGA implementations of CAESAR Cryptography Competition submissions.
+
 projects:
     title: Projects
     intro: >
