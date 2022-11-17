@@ -146,6 +146,8 @@ skills:
       - name: <b>HW Description Language:</b> VHDL, Verilog
         #level: 98%
 
+      - name: <b>Parallel and Distributed Programming:</b> Threads, MPI
+
       - name: <b>Simulators:</b> gem5, ChampSim
         #level: 98%
 
