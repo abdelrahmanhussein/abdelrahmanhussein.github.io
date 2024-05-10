@@ -59,9 +59,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: PhD in Computing Science
         university: Simon Fraser University, Canada
-        time: 2021 - Present
+        time: 2024 - Present
+      - degree: MSc in Computing Science
+        university: Simon Fraser University, Canada
+        time: 2021 - 2024
       - degree: Diploma in Digital Systems Design
         university: Information Technology Institute, Egypt
         time: 2017 - 2018
