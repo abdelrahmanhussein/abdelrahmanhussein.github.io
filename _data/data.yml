@@ -129,7 +129,7 @@ publications:
     intro: |
       You can access my publications list on my <a href="https://scholar.google.com/citations?user=yiKLyecAAAAJ&hl=en">Google Scholar Profile</a>
     papers:
-    - title: Exploiting TLB Sharing to Improve Performance in Server CPUs
+      - title: Exploiting TLB Sharing to Improve Performance in Server CPUs
         link: "https://theses.lib.sfu.ca/file/thesis/8038"
         authors: <b>Abdelrahman S. Hussein</b>
         conference: Simon Fraser University, 2024
