@@ -85,12 +85,12 @@ experiences:
         details: |
           I was part of the Opto-Nano-Electronic (ONE) Research Group, where I worked on two projects:
           - <b>Project #1:</b> Implementing low-energy acceleration system for thermal images classifiers on Xilinx ZCU104 using Xilinx Deep Learning Processing Unit (DPU).
-          - <b>Project #2:</b> Investigating UCB Rocket Chip as a part of intensive exploration for further studies as a step towards implementing a Domain-Specific accelerator.
+          - <b>Project #2:</b> Investigating UCB RISC-V processor as a part of intensive exploration for further studies as a step towards implementing a Domain-Specific accelerator.
       - role: Research Intern
         time: Oct 2018 - Mar 2019
         company: Brown University, USA
         details: |
-          I had a 6-month internship at the SCALE Lab at the ECE School. I worked on a hardware/software co-design implementation of 3D Face Recognition for Biometric Security System. The system included the use of deep CNN, OpenCV, FPGA acceleration, and Computer Vision.
+          I had a 6-month internship at the SCALE Lab at the ECE School. I worked on a hardware/software co-design implementation of 3D Face Recognition System. The system included the use of deep CNN, OpenCV, FPGA acceleration, and Computer Vision.
       - role: Research Intern
         time: Jul 2017 - Oct 2017
         company: Cairo University, Egypt
