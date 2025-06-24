@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     I am a PhD student at the School of Computing Science at Simon Fraser University, advised by Prof. <a href="https://www2.cs.sfu.ca/~alaa/alaa_home.shtml">Alaa Alameldeen</a>. I have also earned my Master's degree under his supervision in 2024. Currently, my research focuses on optimizing the microarchitecture structures for heavily multithreaded workloads for data centers. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. I am a systems enthusiast and a loving husband.
+     I am a PhD student at the School of Computing Science at Simon Fraser University, advised by Prof. <a href="https://www2.cs.sfu.ca/~alaa/alaa_home.shtml">Alaa Alameldeen</a>. I also earned my Master's degree under his supervision in 2024. Currently, my research focuses on optimizing the microarchitecture structures for heavily multithreaded workloads for data centers. My main research interests are Computer Architecture and Systems. My previous experience includes working with domain-specific accelerators on FPGAs and ASIC. I am a systems enthusiast and a loving husband.
 education:
     title: Education
     info:
