@@ -74,11 +74,16 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Research Intern
+        time: Aug 2025 - Present
+        company: Adobe, USA - Remote
+        details: |
+          I am part of the Creative Intelligence Lab at Adobe Research. I am working on profiling the performance of distributed HPC applications in cloud environment. 
       - role: Graduate Research Assistant
         time: Sep 2021 - Present
         company: Simon Fraser University, Canada
         details: |
-          I am a research assistant at the Memory Architecture Group at the CS School. Currently, I work on studying and optimizing micro-architecture structures for heavily multi-threaded workloads for data centers servers.
+          I am a research assistant at the Memory Architecture Group at the CS School. Currently, I work on studying and optimizing micro-architecture structures for heavily multi-threaded workloads for data centers servers.   
       - role: Graduate Research Assistant
         time: Mar 2020 - Mar 2021
         company: Cairo University, Egypt
