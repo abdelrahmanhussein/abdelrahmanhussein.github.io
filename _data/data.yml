@@ -159,10 +159,7 @@ skills:
 
       - name: <b>Frameworks:</b> Keras, DarkNet, Xilinx Vitis AI
         #level: 85%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
-
+  
   interests:
       title: Interests
       info:
@@ -174,3 +171,8 @@ footer: >
 
         - item: Cooking
           link:
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+  
